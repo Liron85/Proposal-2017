@@ -1,5 +1,6 @@
 # Proposal-2017
 Proposal 2017
-contents* [ ] intro
+contents* 
+* [ ] intro
 * [ ] resultss
 * [ ] discussion
